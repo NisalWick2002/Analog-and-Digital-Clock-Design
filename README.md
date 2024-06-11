@@ -2,5 +2,4 @@
 
 <div id="hour"></div>
 <div id="hour"></div>
-<div id="hour"></div>        hr.style.transform = 'rotateZ(${hh+(mm/12)}deg)';
-
+<div id="hour"></div>        hr.style.transform = 'rotateZ(${hh+(mm/12)}

@@ -16,3 +16,4 @@ The provided code creates a visually appealing digital clock interface with both
 2. Updates in real-time every second to reflect the accurate time.
 3. Provides a visually appealing clock interface with smooth animations for the clock hands.
 4. Utilizes CSS for styling to enhance the overall appearance of the clock.
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff

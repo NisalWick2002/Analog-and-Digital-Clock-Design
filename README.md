@@ -3,8 +3,8 @@ This project implements a sleek digital clock featuring analog and digital views
 
 ## Content
 
-- [Overview](https://github.com/NisalWick2002/Supplement-Store?tab=readme-ov-file#overview-)
-- [Features](https://github.com/NisalWick2002/Supplement-Store?tab=readme-ov-file#features-%EF%B8%8F)
+- [Overview](https://github.com/NisalWick2002/Analog-and-Digital-Clock-Design?tab=readme-ov-file#overview-)
+- [Features](https://github.com/NisalWick2002/Analog-and-Digital-Clock-Design?tab=readme-ov-file#features-%EF%B8%8F)
 
 ## Overview 📋
 
